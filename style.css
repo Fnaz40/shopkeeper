@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+#main-section-head{
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+}
+#home-part{
+    background-color: brown;
+    display: flex;
+    color: white;
+}
+.section-one{
+    display: flex;
+}
